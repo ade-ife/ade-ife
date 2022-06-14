@@ -1,10 +1,16 @@
 # 💫About Me :
 🔭 I'm currently working on my skills.
+
 🌱 I'm currently learning more about Backend Development.
+
 🤔 I'm looking for help exploring new technologies.
+
 💻 Ask me about any tech-related stuff.
+
 📫How to reach me: Email - jadeniji00@gmail.com
+
 😃 Pronouns: He/His
+
 🏀 Fun fact: My favorite sports team is the Milwaukee Bucks
 
 ## 🌐Socials
