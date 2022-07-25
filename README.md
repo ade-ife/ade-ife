@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I'm currently working on my skills.
+🔭 I'm currently working on improving everyday.
 
 🌱 I'm currently learning more about Backend Development.
 
