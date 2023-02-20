@@ -1,9 +1,4 @@
 # 💫About Me :
-🔭 I'm currently working on improving everyday.
-
-🌱 I'm currently learning more about Backend Development.
-
-🤔 I'm looking for help exploring new technologies.
 
 💻 Ask me about any tech-related stuff.
 
